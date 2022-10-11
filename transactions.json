@@ -1,0 +1,34 @@
+[{"date": "2022-08-01", "type": "BUY", "qty": 100.0,
+"price": 10.0, "cost": 1000.0}, {"date": "2022-08-02",
+"type": "BUY", "qty": 200.0, "price": 20.0, "cost": 4000.0},
+{"date": "2022-08-02", "type": "BUY", "qty": 200.0, "price":
+20.0, "cost": 4000.0}, {"date": "2022-08-03", "type": "BUY",
+"qty": 10.0, "price": 11.0, "cost": 110.0}, {"date":
+"2022-08-03", "type": "SELL", "qty": 15.0, "price": 11.0,
+"cost": 165.0}, {"date": "2022-08-03", "type": "SELL",
+"qty": 25.0, "price": 14.0, "cost": 350.0}, {"date":
+"2022-08-03", "type": "SELL", "qty": 300.0, "price": 14.0,
+"cost": 4200.0}, {"date": "2022-08-04", "type": "BUY",
+"qty": 25.0, "price": 11.0, "cost": 275.0}, {"date":
+"2022-08-04", "type": "BUY", "qty": 30.0, "price": 14.0,
+"cost": 420.0}, {"date": "2022-08-04", "type": "SELL",
+"qty": 5.0, "price": 11.0, "cost": 55.0}, {"date":
+"2022-08-04", "type": "SELL", "qty": 50.0, "price": 11.0,
+"cost": 550.0}, {"date": "2022-08-05", "type": "BUY", "qty":
+10.0, "price": 12.0, "cost": 120.0}, {"date": "2022-08-05",
+"type": "SELL", "qty": 10.0, "price": 14.0, "cost": 140.0},
+{"date": "2022-08-06", "type": "BUY", "qty": 100.0, "price":
+12.0, "cost": 1200.0}, {"date": "2022-08-06", "type": "BUY",
+"qty": 80.0, "price": 10.0, "cost": 800.0}, {"date":
+"2022-08-06", "type": "SELL", "qty": 10.0, "price": 12.0,
+"cost": 120.0}, {"date": "2022-08-06", "type": "SELL",
+"qty": 90.0, "price": 12.0, "cost": 1080.0}, {"date":
+"2022-08-07", "type": "BUY", "qty": 20.0, "price": 12.0,
+"cost": 240.0}, {"date": "2022-08-07", "type": "SELL",
+"qty": 50.0, "price": 14.0, "cost": 700.0}, {"date":
+"2022-08-08", "type": "BUY", "qty": 20.0, "price": 12.0,
+"cost": 240.0}, {"date": "2022-08-08", "type": "BUY", "qty":
+75.0, "price": 14.0, "cost": 1050.0}, {"date": "2022-08-08",
+"type": "SELL", "qty": 100.0, "price": 12.0, "cost":
+1200.0}, {"date": "2022-08-09", "type": "SELL", "qty": 40.0,
+"price": 12.0, "cost": 480.0}]
