@@ -5,14 +5,13 @@ class TransactionsResponse:
     qty_buy_transactions: float
     qty_sell_transactions: float
 
-def total_transactions(list_json) -> list:
-    buy_qty = 0
-    sell_qty = 0
+def diary_balance(list_json) -> float:
+    balance = 0
 
     for i in list_json:
         if i.type == 'BUY':
-            buy_qty += i.qty
+            balance += i.qty
         if i.type == 'SELL':
-            sell_qty += i.qty
+            balance += i.qty
 
-    return TransactionsResponse(buy_qty, sell_qty)
+    return balance
