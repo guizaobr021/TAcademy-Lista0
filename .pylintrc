@@ -6,6 +6,7 @@ disable=C0114,  # missing-module-docstring
         E0401,  # Unable to import 
         C0325,  # Unnecessary parens after 'if' keyword (superfluous-parens)
         W0105,  # pointless-string-statement
+        E0611,  # no-name-in-module
 
 good-names = id, app, db, i
 

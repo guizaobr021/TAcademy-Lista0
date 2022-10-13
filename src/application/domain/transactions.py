@@ -1,9 +1,9 @@
 from dataclasses import dataclass
-import datetime
+from datetime import date
 
 @dataclass
 class Transaction:
-    date: datetime
+    date: date
     type: str
     qty: float
     price: float
