@@ -15,8 +15,8 @@ def make_transaction_list() -> list:
     return transaction_list
 
 def calculate_total_transactions(transaction_list: Transaction) -> float:
-    buy_qty = 0
-    sell_qty = 0
+    buy_qty = sell_qty = 0
+
     for i in transaction_list:
         if i.type == 'BUY':
             buy_qty += i.qty

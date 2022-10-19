@@ -13,4 +13,3 @@ if __name__=='__main__':
     show_total_transactions(total_transactions)
     show_ordered_transactions(sorted(transaction_list, key=lambda transaction: transaction.cost, reverse=False))
     show_days_diference(days_diference)
-    print(generate_json)
